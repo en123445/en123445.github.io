@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrannnyuu=self.webpackChunkrannnyuu||[]).push([[949],{8716:a=>{a.exports=JSON.parse('{"title":"01 Fairytales","description":"01 Fairytales","slug":"/category/01-fairytales","permalink":"/trans/category/01-fairytales","navigation":{"next":{"title":"01 Fairytales - 01","permalink":"/trans/01 Fairytales/01 Fairytales - 01"}}}')}}]);
