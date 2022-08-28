@@ -72,7 +72,7 @@ const config = {
         title: '乱入',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/star-thick.svg',
         },
         items: [
           {

@@ -1,15 +1,8 @@
 ---
-id: 01 Fairytales - 01 
-sidebar_position: 1
-title: 【Chapter 1】  Prologue
+id: 01 Fairytales - 05
+sidebar_position: 5
+title: 【Chapter 5】  The Friendship
 ---
-<details>
-<summary>原作信息</summary>
-作者：Chelles
-
-[原贴地址](https://www.fanfiction.net/s/3468314/1/Fairytales)
-</details>
-
 Sara Sidle一天中最喜欢的时间是睡觉的时候。她喜爱睡眠的简单性。当她睡着的时候，就听不到争吵的声音了。当她睡的时候，就看不到飞舞的拳头了。当她睡着的时候，就没有人可以伤害她和她的妈妈了。
 
 不过，比起睡着，她更喜爱为睡觉做准备。她喜欢刷牙，换上睡衣然后爬到床上。她喜欢依偎着被子等待她的妈妈进来给她讲个故事。这是Laura Sidle从她女儿出生起就开始的一个惯例，甚至她的丈夫都知道不能去打断这个。Sara的睡前故事是他们生活中一件真正神圣的事情。
