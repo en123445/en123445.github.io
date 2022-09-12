@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrannnyuu=self.webpackChunkrannnyuu||[]).push([[3133],{6006:s=>{s.exports=JSON.parse('{"label":"GilGrissom","permalink":"/blog/tags/gil-grissom","allTagsPath":"/blog/tags","count":1}')}}]);
