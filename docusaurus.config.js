@@ -61,6 +61,15 @@ const config = {
         path: 'docs/self',
         routeBasePath: 'self',
         sidebarPath: require.resolve('./sidebars.js')
+      },      
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'tech',
+        path: 'docs/tech',
+        routeBasePath: 'tech',
+        sidebarPath: require.resolve('./sidebars.js')
       },
     ],
   ],
@@ -77,47 +86,59 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: '01 Fairytales/01 Fairytales - 01',
+            docId: 'Fairytales/01 Fairytales - 01',
             position: 'left',
             label: '同人翻译',
           },
           {
             docsPluginId:'self',
             type: 'doc',
-            docId: '再见Gil再见CSI/再见Gil再见CSI - 01',
+            docId: 'BeyGilBeyCSI/再见Gil再见CSI-01',
+            position: 'left',
             label: '随笔',
           },
+          {
+            docsPluginId:'tech',
+            type: 'doc',
+            docId: 'docusaurus2快速建站',
+            position: 'right',
+            label: '技术',
+          },
+          /*
+          {
+            to: 'self/BeyGilBeyCSI/再见Gil再见CSI-01',
+            label: 'DocsTest',
+            position: 'right',
+          },
+          */
           {to: '/blog', label: 'Blog', position: 'left'},          
+          {
+            to: 'updateRec',
+            label: '更新记录',
+            position: 'right',
+          },
         ],
+      },
+      docs: {
+        sidebar: {
+          hideable: true,
+          //autoCollapseCategories: false,
+        },
       },
       footer: {
         style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: '同人翻译',
-                to: '/trans/category/01-fairytales',
-              },
-            ],
-          },
+        links: [          
           {
             title: 'Community',
             items: [
               {
                 label: '微博',
                 href: 'https://weibo.com/u/1774939302',
-              },                         
-            ],
-          },
-          {
-            title: 'More',
-            items: [
+              },
               {
-                label: 'Blog',
-                to: '/blog',
-              },              
+                label: 'BiliBili',
+                href: 'https://space.bilibili.com/664271',
+              },                       
             ],
           },
         ],

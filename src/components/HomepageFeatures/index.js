@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw01.svg').default,
     description: (
       <>
-        Test
+        Gil Grissom
       </>
     ),
   },
@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw04.svg').default,
     description: (
       <>
-        Test
+        私の
       </>
     ),
   },
@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw03.svg').default,
     description: (
       <>
-        Test
+        嫁さん
       </>
     ),
   },
