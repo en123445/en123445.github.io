@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrannnyuu=self.webpackChunkrannnyuu||[]).push([[6476],{83600:a=>{a.exports=JSON.parse('{"label":"PS5","permalink":"/blog/tags/ps-5","allTagsPath":"/blog/tags","count":1}')}}]);

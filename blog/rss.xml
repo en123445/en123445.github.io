@@ -4,10 +4,33 @@
         <title>乱 入 Blog</title>
         <link>https://en123445.github.io/blog</link>
         <description>乱 入 Blog</description>
-        <lastBuildDate>Tue, 02 Aug 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Nov 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
+        <item>
+            <title><![CDATA[喜迎5公主]]></title>
+            <link>https://en123445.github.io/blog/喜迎5公主</link>
+            <guid>喜迎5公主</guid>
+            <pubDate>Thu, 03 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[从发售之初就炒得沸沸扬扬，不管是次时代的标榜还是货源少买不到的稀有价值，都没有打动我，毕竟一直觉得PS4还能再战几年（入手4年多，除了现在手柄有漂移、噪声大了一些没啥毛病）。]]></description>
+            <content:encoded><![CDATA[<p>从发售之初就炒得沸沸扬扬，不管是次时代的标榜还是货源少买不到的稀有价值，都没有打动我，毕竟一直觉得PS4还能再战几年（入手4年多，除了现在手柄有漂移、噪声大了一些没啥毛病）。
+结果今年8月左右，听说，官方涨价了...总觉得再入手的话自己就是交了智商税呢...</p><p>But，大家都在夸PS5的手柄反馈好 &amp; 读取游戏速度快 这两点确实还是让我有些惦记；然后地平线零之曙光故事真不错、续集怎么是PS5独占呢；加上双十一...打折还挺多呀！</p><p>Emmmm...就这么交了定金下单了...
+（果然因为疫情毫无结束征兆，短期内旅行无望，只能靠游戏云旅游了呀，旅行经费也是有准备的，只是看给谁罢了...</p><p>从10.31号交尾款，到11.02早上6点半收到派送通知，其实还是挺快的。一天里开了京东app无数次盯着快递员的定位在小区周围转啊转啊...就是不送咱...真是混合了焦急&amp;期待的一天，好久没有这种体验了~</p><p>终于晚上7点半了，眼看着预定派送日期变成了3号，忍不住给快递员打了电话询问，结果人家说正要通知取货呢！欣喜地放下饭碗就出门了~~~</p><p>果然双十一是大混战吗，外包装盒&amp;原包装盒都给戳了个洞，心差点儿就凉了...好在盒子大，打开看了看没戳到本体（给大包装盒跪了，感激涕零；顺便送的珊瑚绒毯真不错~）。</p><p>わくわく！
+开始从PS4传递数据搞账号！（毕竟是国行版，需要自己搞一下小动作）
+嗯...？
+为什么没有出现攻略里的"从PS4传输数据"的步骤？？？</p><div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">※导入账号（国行PS5备份）手顺：</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">在PS4登录国服账号，等着</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">PS5初始化步骤中，登录国服账号，根据提示选择从PS4传输数据</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">选PS4上需要导入的所有账号（最多16个）+存档（可不选）+游戏（可不选）</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">在PS4上按开机键1秒，听到"哔"的一声，等数据传输完</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">PS5，等数据传输完</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg class="copyButtonIcon_y97N" viewBox="0 0 24 24"><path d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg class="copyButtonSuccessIcon_LjdS" viewBox="0 0 24 24"><path d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div><p>然后特意重复看了攻略视频，确实和人家现象不一样，奇怪呢...不过人家说重点是"必须初始化状态"，莫非我跟从机器引导（为了试验）放了游戏光盘被认为是"非初始化状态"了？
+重做一遍吧</p><div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">※初始化PS5手顺：</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">尽管网上说从系统菜单可以选择初始化设置，实际上执行后还是进入了国服账号；</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">于是把账号删了，才提示恢复出厂设置</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg class="copyButtonIcon_y97N" viewBox="0 0 24 24"><path d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg class="copyButtonSuccessIcon_LjdS" viewBox="0 0 24 24"><path d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div><p>这次没有放光盘，果然成功了</p><p>不过因为选了传输账号+存档，要传5G+，用的wifi，所以这期间看了两集琅琊榜...（存档其实已经拷到U盘了，没有很大，不知道是不是为什么4个账号信息那么大...）</p><p>账号导入成功后，赶快把躺在旁边的光盘插入机器...</p><p>嗯？
+无可识别光盘？？
+上网又确认了一次：99%的PS4光盘可以用PS5玩儿啊，再试一次！
+无可识别光盘？？？？
+仔细看了一眼message：是否光盘上有划痕？是否光盘放反了？
+放反了？这还能放反了？？
+默默取出光盘、花色朝左放进去...成功了...</p><p>我去...设计师是左撇子吗？！（这么扭一下我手腕又开始疼了...）</p><p>不过总算成功了吧！（顺便拜托母上给5公主也做了个罩子...）
+这来来回回的直接折腾到12点了，所以也没时间再体验了、赶快睡觉！</p><p>※第二天试玩儿了免费的机器人小游戏，手柄反馈果然很棒~机器人可爱！不过还在犹豫要不要现在就入地平线续作，太贵了...比NS家还贵...于是先升级了送快递和对马岛...让我再纠结两天...</p>]]></content:encoded>
+            <category>PS5</category>
+            <category>游戏</category>
+        </item>
         <item>
             <title><![CDATA[William Petersen 作品 list]]></title>
             <link>https://en123445.github.io/blog/WP video List</link>
